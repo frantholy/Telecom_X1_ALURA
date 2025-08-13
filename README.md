@@ -7,7 +7,7 @@ En este proyecto se trabajará con datos de clientes de la empresa de telecomuni
 
 ----------------------
 
-## PASOS A SEGUIR DEL DESAFÍO:
+## PASOS A SEGUIR:
 
 1. **Extracción:** Obtención de los datos desde una fuente externa en formato JSON, ubicada en:  
    [TelecomX_Data.json](https://raw.githubusercontent.com/alura-cursos/challenge2-data-science-LATAM/main/TelecomX_Data.json)
@@ -20,9 +20,11 @@ En este proyecto se trabajará con datos de clientes de la empresa de telecomuni
    
 5. **Recomendaciones:** Indicar medidas para reducir y evitar el CHURN.
 
+***Te invito a revisar el documento telecomX_ALURA.ipynb adjunto en el proyecto para visualizar los gráficos y sus respectivos análisis en detalle***
+
 ----------------------------------------
 
-## 📝 CONCLUSIÓN CHALLENGE:
+## 📝 CONCLUSIÓN:
 
 El Churn se ve fuertemente influenciado por la duración del contrato, los métodos de pago, la edad del cliente y la contratación de servicios adicionales. Variables operativas o demográficas como género o servicios básicos tienen impacto limitado.
 
@@ -43,4 +45,19 @@ El Churn se ve fuertemente influenciado por la duración del contrato, los méto
 7. 📊 Monitoreo y análisis continuo.
 
 --------------------------
-Para observar gráficos y revisar análisis de estos, te invito a revisar el 
+
+## TECNOLOGÍAS UTILIZADAS
+
+- **Python**: Lenguaje para el análisis de datos.
+  
+------
+
+## CARGAR EL PROYECTO O CLONAR:
+
+   Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar el proyecto:
+
+   ```bash
+   git clone https://github.com/frantholy/rendimiento_tiendas_ALURA
+```
+
+------------------
