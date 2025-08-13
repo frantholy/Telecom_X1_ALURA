@@ -57,7 +57,7 @@ El Churn se ve fuertemente influenciado por la duración del contrato, los méto
    Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar el proyecto:
 
    ```bash
-   git clone https://github.com/frantholy/rendimiento_tiendas_ALURA
+   git clone https://github.com/frantholy/Telecom_X1_ALURA
 ```
 
 ------------------
