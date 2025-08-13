@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-## 📝 Introducción
+## 📝 INTRODUCCIÓN
 En este proyecto se trabajará con datos de clientes de la empresa de telecomunicaciones **Telecom X**, con el objetivo de comprender los factores que influyen en la cancelación del servicio (*churn*).
 
 ----------------------
@@ -23,20 +23,12 @@ En este proyecto se trabajará con datos de clientes de la empresa de telecomuni
 ----------------------------------------
 
 ## 📝 CONCLUSIÓN CHALLENGE:
-El análisis revela que ciertas variables tienen un impacto significativo en la probabilidad de que un cliente abandone el servicio:
 
-**Variables con mayor influencia en Churn:**
-Contratos a largo plazo (Contract_One year, Contract_Two year) y métodos de pago electrónicos reducen significativamente el Churn.
-Servicios de valor agregado como OnlineSecurity y TechSupport disminuyen la probabilidad de abandono.
-Clientes senior y aquellos con facturación electrónica o fibra óptica presentan mayor Churn.
-Tenure y TotalCharges muestran correlación negativa con Churn, indicando que la fidelidad y la inversión acumulada reducen el abandono.
-Variables con baja influencia
-Género, PhoneService, StreamingTV y StreamingMovies presentan poca relación con Churn y pueden ser prescindibles para modelos simples.
-Consideraciones para modelado
-Variables altamente correlacionadas (tenure y TotalCharges, StreamingTV y StreamingMovies) deben manejarse con cuidado para evitar multicolinealidad en modelos sensibles.
-Las variables más predictivas y relevantes para modelado son: Contract, PaymentMethod, OnlineSecurity, TechSupport, SeniorCitizen, Tenure, MonthlyCharges.
-💡 Resumen:
 El Churn se ve fuertemente influenciado por la duración del contrato, los métodos de pago, la edad del cliente y la contratación de servicios adicionales. Variables operativas o demográficas como género o servicios básicos tienen impacto limitado.
+
+**Consideraciones para modelado:**
+* Variables altamente correlacionadas (tenure y TotalCharges, StreamingTV y StreamingMovies) deben manejarse con cuidado para evitar multicolinealidad en modelos sensibles.
+* Las variables más predictivas y relevantes para modelado son: Contract, PaymentMethod, OnlineSecurity, TechSupport, SeniorCitizen, Tenure, MonthlyCharges.
 
 ----------------------------------
 
@@ -51,4 +43,4 @@ El Churn se ve fuertemente influenciado por la duración del contrato, los méto
 7. 📊 Monitoreo y análisis continuo.
 
 --------------------------
-
+Para observar gráficos y revisar análisis de estos, te invito a revisar el 
